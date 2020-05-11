@@ -17,11 +17,6 @@
       "firstName": "Nick",
       "age": 18,
       "companyId": 2
-    },
-    {
-      "firstName": "Steve",
-      "age": 26,
-      "id": "iMlmdBe"
     }
   ],
   "companies": [
